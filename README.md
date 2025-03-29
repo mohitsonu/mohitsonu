@@ -1,4 +1,5 @@
-# 💫 Hello World, I'm Mohit
+# 💫  About me
+<h1 align="center">Hello World,👋, I'm Mohit</h1>
 <br>📫 You can reach me mohitsonu33@gmail.com
 
 
